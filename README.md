@@ -98,13 +98,6 @@ If you are interested in me, I invite you to contact me through LinkedIn or writ
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 <div align="center">
