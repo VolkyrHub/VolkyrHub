@@ -9,6 +9,20 @@
 ## <div align="center"> I'm from Argentina 🇦🇷 and i'm a Full Stack developer 👨‍💻 with a preference for the Front End area 🚀</div>  
   
 
+#### Hello everyone!
+
+My name is Yatel and I am a Full Stack developer graduated from Henry Bootcamp.
+I'm currently still training leaning more specifically in Front End. 🧩
+
+My goal, both personal and work, is to improve day by day so I can be a better version of myself and give the best to the people around me and trust me. 👤
+
+Since I was a child I have been attracted to technology and its advances, I was born with a mouse and a keyboard at my fingertips, this makes them my favorite tools. 🖥️
+I am a communicative person, resilient and committed to what I do.
+One of my favorite things to do is to travel and learn about different cultures. I am a gamer and competed professionally, so my frustration tolerance is high.
+
+If you are interested in me, I invite you to contact me through LinkedIn or write me at my mail. 📩  
+  
+
 - 🌱 I’m currently learning TypeScript and Next.js  
   
 
@@ -81,6 +95,15 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VolkyrHub&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
 
 <br/>  
 
