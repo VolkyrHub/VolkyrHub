@@ -94,18 +94,3 @@ If you are interested in me, I invite you to contact me through LinkedIn or writ
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VolkyrHub&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VolkyrHub&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
