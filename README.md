@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Yatel, also known by my nickname "Volkyr"</h2>
+<h2 align="center">Hi there 👋, I'm Yatel, also known as "Volkyr"</h2>
 
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/86340539/234129986-73b81f9a-b6e9-4ebd-8330-29e9dcde7e17.png"  />
